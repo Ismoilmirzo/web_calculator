@@ -1,2 +1,11 @@
 # web_calculator
 Web Calculator with HTML, CSS and JavaScript languages
+
+EN:
+IMPORTANT: PLEASE PUT AUTHOR'S NAME: ISMOILMIRZO INOYATOV
+
+UZ:
+MUHIM: ILTIMOS MUALLIF NOMINI QO'YING: ISMOILMIRZO INOYATOV
+
+RU:
+ВАЖНО: ВСТАВЬТЕ ИМЯ АВТОРА: ISMOILMIRZO INOYATOV
